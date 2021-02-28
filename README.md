@@ -8,3 +8,10 @@ textsizecontroller.js
 ```
 <script src="https://erichsia7.github.io/text_size_controller/textsizecontroller.min.js"></script>
 ```
+## use
+Add script.
+```
+<script>
+var textsize = '{"default":100,"scale": 30,"max":300,"min":50,"containerid":"body","textcontainerid":"body"}' ;
+</script>
+```
