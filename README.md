@@ -19,6 +19,7 @@ var textsize = '{"default":100,"scale": 30,"max":300,"min":50,"containerid":"bod
 ```
 <meta charset="UTF-8">
 <title>Demo</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <body id="body">
 This is text.
